@@ -43,7 +43,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://www.silkky.cloud/img/png/brand/logo-transparent.png
   favicon: https://www.silkky.cloud/img/favicons/favicon-32x32.png
   name: Silkky.Cloud Status
   introTitle: "**Silkky.Cloud Status** is our service uptime monitoring page."
