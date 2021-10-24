@@ -8,14 +8,18 @@ assignees:
 sites:
   - name: Website
     url: https://www.silkky.cloud
-  - name: Searx
-    url: https://searx.silkky.cloud
   - name: Piped
     url: https://piped.silkky.cloud
   - name: Piped Proxy
     url: https://proxy.piped.silkky.cloud
   - name: Piped API
     url: https://api.piped.silkky.cloud/trending
+  - name: Pleroma
+    url: https://social.silkky.cloud
+  - name: Pleroma Proxy
+    url: https://proxy.social.silkky.cloud
+  - name: Searx
+    url: https://searx.silkky.cloud
   - name: Send
     url: https://send.silkky.cloud
   - name: Vikunja
