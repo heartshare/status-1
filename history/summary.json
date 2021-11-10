@@ -58,18 +58,20 @@
     "url": "https://api.piped.silkky.cloud/trending",
     "icon": "https://favicons.githubusercontent.com/api.piped.silkky.cloud",
     "slug": "piped-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 589,
-    "timeWeek": 604,
-    "timeMonth": 580,
-    "timeYear": 580,
-    "dailyMinutesDown": {}
+    "time": 1110,
+    "timeDay": 8000,
+    "timeWeek": 2455,
+    "timeMonth": 1110,
+    "timeYear": 1110,
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   },
   {
     "name": "Pleroma",
@@ -136,9 +138,9 @@
     "url": "https://send.silkky.cloud",
     "icon": "https://favicons.githubusercontent.com/send.silkky.cloud",
     "slug": "send",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,16 +149,18 @@
     "timeWeek": 496,
     "timeMonth": 494,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   },
   {
     "name": "Vikunja",
     "url": "tasks.silkky.cloud",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vikunja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,16 +169,18 @@
     "timeWeek": 790,
     "timeMonth": 785,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   },
   {
     "name": "Bitwarden",
     "url": "https://vault.silkky.cloud",
     "icon": "https://favicons.githubusercontent.com/vault.silkky.cloud",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,7 +189,9 @@
     "timeWeek": 480,
     "timeMonth": 482,
     "timeYear": 482,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   },
   {
     "name": "Libreddit",
