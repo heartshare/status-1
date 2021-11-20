@@ -1,7 +1,7 @@
 url: https://vault.silkky.cloud
-status: up
-code: 200
-responseTime: 661
-lastUpdated: 2021-11-20T10:35:15.956Z
+status: down
+code: 502
+responseTime: 353
+lastUpdated: 2021-11-20T10:45:05.765Z
 startTime: Sat Oct 23 2021 09:51:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
