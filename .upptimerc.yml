@@ -13,7 +13,7 @@ sites:
   - name: Piped Proxy
     url: https://proxy.piped.silkky.cloud
   - name: Piped API
-    url: https://api.piped.silkky.cloud/trending
+    url: https://api.piped.silkky.cloud/trending?region=US
   - name: Pleroma
     url: https://social.silkky.cloud
   - name: Pleroma Proxy
