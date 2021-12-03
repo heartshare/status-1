@@ -16,8 +16,6 @@ sites:
     url: https://api.piped.silkky.cloud/trending?region=US
   - name: Pleroma
     url: https://social.silkky.cloud
-  - name: Pleroma Proxy
-    url: https://proxy.social.silkky.cloud
   - name: Searx
     url: https://searx.silkky.cloud
   - name: Send
