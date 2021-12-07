@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
+    "time": 197,
     "timeDay": 171,
     "timeWeek": 173,
     "timeMonth": 171,
-    "timeYear": 198,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 159,
-    "timeWeek": 155,
-    "timeMonth": 167,
+    "timeDay": 157,
+    "timeWeek": 154,
+    "timeMonth": 166,
     "timeYear": 152,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 124,
-    "timeWeek": 111,
-    "timeMonth": 114,
-    "timeYear": 141,
+    "time": 142,
+    "timeDay": 145,
+    "timeWeek": 117,
+    "timeMonth": 116,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 865,
-    "timeDay": 148,
-    "timeWeek": 627,
-    "timeMonth": 1072,
-    "timeYear": 865,
+    "time": 853,
+    "timeDay": 152,
+    "timeWeek": 574,
+    "timeMonth": 1047,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2021-11-10": 22
     }
@@ -85,9 +85,9 @@
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.49%",
     "time": 566,
-    "timeDay": 569,
-    "timeWeek": 529,
-    "timeMonth": 578,
+    "timeDay": 557,
+    "timeWeek": 530,
+    "timeMonth": 577,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2021-12-03": 169,
@@ -96,24 +96,6 @@
       "2021-10-27": 28,
       "2021-10-25": 48
     }
-  },
-  {
-    "name": "Searx",
-    "url": "https://searx.silkky.cloud",
-    "icon": "https://favicons.githubusercontent.com/searx.silkky.cloud",
-    "slug": "searx",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 568,
-    "timeWeek": 619,
-    "timeMonth": 627,
-    "timeYear": 629,
-    "dailyMinutesDown": {}
   },
   {
     "name": "Send",
@@ -126,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 525,
-    "timeDay": 687,
-    "timeWeek": 575,
-    "timeMonth": 550,
-    "timeYear": 525,
+    "time": 528,
+    "timeDay": 703,
+    "timeWeek": 591,
+    "timeMonth": 555,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2021-11-10": 22
     }
@@ -146,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 756,
-    "timeDay": 800,
-    "timeWeek": 632,
-    "timeMonth": 739,
-    "timeYear": 756,
+    "time": 754,
+    "timeDay": 699,
+    "timeWeek": 628,
+    "timeMonth": 735,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2021-11-28": 16,
       "2021-11-10": 22
@@ -167,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 503,
-    "timeDay": 680,
-    "timeWeek": 567,
-    "timeMonth": 518,
-    "timeYear": 503,
+    "time": 507,
+    "timeDay": 719,
+    "timeWeek": 588,
+    "timeMonth": 524,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2021-11-20": 17,
       "2021-11-10": 22
@@ -188,11 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2170,
-    "timeDay": 2498,
-    "timeWeek": 2153,
-    "timeMonth": 2356,
-    "timeYear": 2170,
+    "time": 2178,
+    "timeDay": 2567,
+    "timeWeek": 2206,
+    "timeMonth": 2364,
+    "timeYear": 2178,
     "dailyMinutesDown": {
       "2021-10-23": 19
     }
@@ -208,29 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 714,
-    "timeWeek": 588,
-    "timeMonth": 589,
-    "timeYear": 575,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Privatebin",
-    "url": "https://privatebin.silkky.cloud",
-    "icon": "https://favicons.githubusercontent.com/privatebin.silkky.cloud",
-    "slug": "privatebin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 572,
-    "timeWeek": 616,
-    "timeMonth": 628,
-    "timeYear": 628,
+    "time": 574,
+    "timeDay": 620,
+    "timeWeek": 581,
+    "timeMonth": 587,
+    "timeYear": 574,
     "dailyMinutesDown": {}
   }
 ]
