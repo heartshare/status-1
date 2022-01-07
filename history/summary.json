@@ -22,28 +22,30 @@
     "url": "https://piped.silkky.cloud",
     "icon": "https://favicons.githubusercontent.com/piped.silkky.cloud",
     "slug": "piped",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 659,
     "timeWeek": 662,
     "timeMonth": 540,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-07": 3
+    }
   },
   {
     "name": "Piped Proxy",
     "url": "https://proxy.piped.silkky.cloud",
     "icon": "https://favicons.githubusercontent.com/proxy.piped.silkky.cloud",
     "slug": "piped-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
@@ -51,7 +53,9 @@
     "timeWeek": 525,
     "timeMonth": 426,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-07": 1
+    }
   },
   {
     "name": "Piped API",
