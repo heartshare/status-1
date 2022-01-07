@@ -22,19 +22,19 @@
     "url": "https://piped.silkky.cloud",
     "icon": "https://favicons.githubusercontent.com/piped.silkky.cloud",
     "slug": "piped",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 659,
-    "timeWeek": 662,
-    "timeMonth": 540,
-    "timeYear": 293,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
+    "time": 297,
+    "timeDay": 657,
+    "timeWeek": 661,
+    "timeMonth": 543,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2022-01-07": 3
+      "2022-01-07": 43
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://proxy.piped.silkky.cloud",
     "icon": "https://favicons.githubusercontent.com/proxy.piped.silkky.cloud",
     "slug": "piped-proxy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 245,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.96%",
+    "time": 248,
     "timeDay": 514,
-    "timeWeek": 525,
-    "timeMonth": 426,
-    "timeYear": 245,
+    "timeWeek": 524,
+    "timeMonth": 429,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-01-07": 1
+      "2022-01-07": 41
     }
   },
   {
